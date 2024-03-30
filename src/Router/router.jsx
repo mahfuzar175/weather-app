@@ -2,7 +2,7 @@ import {
     createBrowserRouter,
   } from "react-router-dom";
 import Main from "../Layout/Main";
-import Home from "../Pages/Home";
+import WeatherApp from "../components/WeatherApp";
 
 export const router = createBrowserRouter([
     {
@@ -11,7 +11,7 @@ export const router = createBrowserRouter([
       children: [
         {
             path: '/',
-            element: <Home></Home>
+            element: <WeatherApp></WeatherApp>
         }
       ]
     },
