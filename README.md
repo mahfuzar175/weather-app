@@ -2,6 +2,10 @@
 
 This is a single-page weather application built with React.js that allows users to search for a location and view its current weather information.
 
+## Live Link
+
+You can access the live version of the Weather App [here](https://weather-app175.netlify.app/).
+
 ## Requirements
 
 - Node.js (v14.0.0 or newer)
