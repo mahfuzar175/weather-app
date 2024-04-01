@@ -13,7 +13,7 @@ This is a single-page weather application built with React.js that allows users 
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/mahfuzar175/weather-app.git
 ```
 
 2. Navigate to the project directory:
