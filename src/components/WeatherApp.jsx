@@ -33,7 +33,7 @@ const WeatherApp = () => {
 
   return (
     <div
-      className="flex justify-center items-center min-h-100vh bg-black"
+      className="flex justify-center items-center"
       style={{
         backgroundImage: `url(${background})`,
         backgroundSize: "cover",
